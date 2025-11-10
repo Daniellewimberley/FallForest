@@ -1,0 +1,14 @@
+🍂  A leaf falls from branch level 0
+🍂  A leaf falls from branch level 0
+🍂  A leaf falls from branch level 0
+  🍂  A leaf falls from branch level 1
+  🍂  A leaf falls from branch level 1
+  🍂  A leaf falls from branch level 1
+  🍂  A leaf falls from branch level 1
+The forest sleeps for winter.
+
+Spring returns to the forest...
+🌱  1 new leaves grow on branch level 0
+  🌱  2 new leaves grow on branch level 1
+  🌱  2 new leaves grow on branch level 1
+The forest is alive again!
